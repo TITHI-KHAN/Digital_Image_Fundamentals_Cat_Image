@@ -1,4 +1,4 @@
-# Digital_Image_Fundamentals_CatImage
+# Digital_Image_Fundamentals_Cat_Image
 
 This utilizes various image processing techniques using libraries such as PIL, Matplotlib, NumPy, and scikit-image. Let's break down the functionalities provided by each section:
 
