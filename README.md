@@ -1,5 +1,16 @@
 # Digital_Image_Fundamentals_Cat_Image
 
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/25619475-97de-4ac8-93f9-c57081b5bbf0)
+
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/f65b6765-72d8-4c78-a2cd-dad888431199)
+
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/467d4854-73ee-46a6-9314-9d70aea73ee2)
+
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/b3f41a31-2fad-4d0b-b8a3-746198162986)
+
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/e01ef69a-1530-4bea-bb2b-7315326299e5)
+
+
 This utilizes various image processing techniques using libraries such as PIL, Matplotlib, NumPy, and scikit-image. Let's break down the functionalities provided by each section:
 
 1. **Image Display and Histogram**:
