@@ -1,5 +1,7 @@
 # Digital_Image_Fundamentals_Cat_Image
 
+![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/ae64baf3-0af0-414e-a218-2aa594654d4f)
+
 ![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/25619475-97de-4ac8-93f9-c57081b5bbf0)
 
 ![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/f65b6765-72d8-4c78-a2cd-dad888431199)
@@ -11,7 +13,7 @@
 ![image](https://github.com/TITHI-KHAN/Digital_Image_Fundamentals_Cat_Image/assets/65033964/e01ef69a-1530-4bea-bb2b-7315326299e5)
 
 
-This utilizes various image processing techniques using libraries such as PIL, Matplotlib, NumPy, and scikit-image. Let's break down the functionalities provided by each section:
+This code utilizes various image processing techniques using libraries such as PIL, Matplotlib, NumPy, and scikit-image. Let's break down the functionalities provided by each section:
 
 1. **Image Display and Histogram**:
    - The code loads an image (`Cat.jpeg`), displays it using Matplotlib, and then plots the color histogram of the image.
